@@ -2,10 +2,10 @@
 
 I am an ICT trainer, teaching mainly office applications and basic functionalities from a user perspective.<br>
 I have a degree in Multimedia Technician (Level IV). <br>
-I want to learn and consider myself an eternal apprentice!<br><br><br><br>
+I want to learn and consider myself an eternal apprentice!<br><br>
 
 <strong>Now i'm learning and perfecting HTML, CSS, Javascript and other programming languages!</strong>
-
+<br><br><br>
 <div align="center">
   <a href="https://github.com/fr0shuka">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fr0shuka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

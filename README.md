@@ -1,8 +1,10 @@
 ### Hi there, i'm Miguel <i>'fr0shuka'</i> Borges.<br><br>
 
 I am an ICT trainer, teaching mainly office applications and basic functionalities from a user perspective.<br>
-I have a degree in Multimedia Technician (Level IV), learning and perfecting HTML, CSS, Javascript and other programming languages!<br>
+I have a degree in Multimedia Technician (Level IV). <br>
 I want to learn and consider myself an eternal apprentice!<br><br><br><br>
+
+<strong>Now i'm learning and perfecting HTML, CSS, Javascript and other programming languages!</strong>
 
 <div align="center">
   <a href="https://github.com/fr0shuka">
